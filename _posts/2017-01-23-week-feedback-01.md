@@ -1,5 +1,5 @@
 ---
-title: Spring Framework - 02.의존관계 주입과 스프링 프레임워크
+title: 1월 3주차 Rookey Basecamp
 featured: images/nhnent.png
 layout: post
 ---
